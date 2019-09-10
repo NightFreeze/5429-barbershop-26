@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [NightFrost](https://up.htmlacademy.ru/htmlcss/26/user/5429).
+* Наставник: [Никита Рогатнев](https://htmlacademy.ru/profile/nikita_rogatnev).
 
 ---
 
